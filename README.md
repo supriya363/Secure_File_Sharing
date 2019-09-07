@@ -1,6 +1,6 @@
 # Secure_File_Sharing
 
-This is implemented as part of CS628A Assignment. 
+This is implemented as part of CS628A Assignment. <br>
 
 It supports cryptographically secure file storage and sharing. Also users can revoke the share access. 
 Supported Functionalities :
